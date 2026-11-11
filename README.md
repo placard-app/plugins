@@ -1,5 +1,11 @@
 # Placard plugins
 
+> **Archived repository.** Placard’s official modules are developed and released in their own repositories. Use the repository for the module you want to install, contribute to, or report an issue with.
+>
+> [Board](https://github.com/placard-app/module-board) · [Day Out](https://github.com/placard-app/module-day-out) · [Decide Together](https://github.com/placard-app/module-decide-together) · [Menus](https://github.com/placard-app/module-menus) · [Pick](https://github.com/placard-app/module-pick)
+>
+> The original source history and releases are available here for reference.
+
 Official modules for [Placard](https://github.com/JobiJoba/Placard), built and
 released independently from a shared pnpm workspace. Install only the modules you
 need; each has its own version, manifest and GitHub Releases. No npm publishing or
